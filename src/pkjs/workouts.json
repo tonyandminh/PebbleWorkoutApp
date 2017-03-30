@@ -1,0 +1,96 @@
+{
+    "Workouts": {
+        "Plyometrics": {
+            "Moves": [
+            {
+                "Name": "Jump Squat",
+                "Time": "30"
+            },
+            {
+                "Name": "Run Stance Squat",
+                "Time": "30"
+            },
+            {
+                "Name": "Airborne Heisman",
+                "Time": "30"
+            },
+            {
+                "Name": "Swing Kicks",
+                "Time": "60"
+            },
+            {
+                "Name": "Squat Reach Jump",
+                "Time": "30"
+            },
+            {
+                "Name": "Squat Switch Pickups",
+                "Time": "30"
+            },
+            {
+                "Name": "Double Airborne Heisman",
+                "Time": "30"
+            },
+            {
+                "Name": "Jump Knee Tuck",
+                "Time": "30"
+            },
+            {
+                "Name": "Mary Katherine",
+                "Time": "30"
+            },
+            {
+                "Name": "Leapfrog Squats",
+                "Time": "30"
+            },
+            {
+                "Name": "Twist Combo",
+                "Time": "30"
+            },
+            {
+                "Name": "Twist Combo 180",
+                "Time": "30"
+            },
+            {
+                "Name": "Rockstar Hop (L)",
+                "Time": "15"
+            },
+            {
+                "Name": "Rockstar Hop (R)",
+                "Time": "15"
+            },
+            {
+                "Name": "Gap Jump",
+                "Time": "30"
+            },
+            {
+                "Name": "Squat Jacks",
+                "Time": "30"
+            },
+            {
+                "Name": "Military March",
+                "Time": "60"
+            },
+            {
+                "Name": "Run Squat 180 Jump Squat",
+                "Time": "30"
+            },
+            {
+                "Name": "Lateral Leapfrog Squat",
+                "Time": "30"
+            },
+            {
+                "Name": "Monster Truck Tires",
+                "Time": "30"
+            },
+            {
+                "Name": "Hot Foot (L)",
+                "Time": "30"
+            },
+            {
+                "Name": "Hot Foot (R)",
+                "Time": "30"
+            }
+            ]
+        }
+    }
+}

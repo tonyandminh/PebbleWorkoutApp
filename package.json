@@ -1,0 +1,33 @@
+{
+    "author": "minhdi11@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "my-workouts",
+    "pebble": {
+        "displayName": "My Workouts",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "testKey"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/My Workout Icon.png",
+                    "name": "IMAGE_SPLASH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "diorite"
+        ],
+        "uuid": "186b2018-68e9-4ce8-99a0-5c0102ae2eeb",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
